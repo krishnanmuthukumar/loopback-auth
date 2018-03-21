@@ -1,0 +1,17 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 5432,
+    "database": "postgres",
+    "password": "postgres",
+    "name": "db",
+    "user": "postgres",
+    "connector": "postgresql",
+    "min": 5,
+    "max": 200,
+    "idleTimeoutMillis": 60000,
+    "ssl": false,
+    "connectionTimeoutMillis": 10000
+  }
+}
+
